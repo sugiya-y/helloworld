@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+import cv
 
 def main():
     img = cv2.imread("test.jpg")
